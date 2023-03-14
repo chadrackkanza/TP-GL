@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "535027183910",
+    "firebase_url": "https://tpfac-d06e4-default-rtdb.firebaseio.com",
+    "project_id": "tpfac-d06e4",
+    "storage_bucket": "tpfac-d06e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535027183910:android:d5fc18a7ced69d957291e7",
+        "android_client_info": {
+          "package_name": "com.emst.cours.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535027183910-eo86lna948bdbq379541f9mipjn9ng6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzLGhReXlNgDG0jz90eVtp883O-tmKqoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535027183910-eo86lna948bdbq379541f9mipjn9ng6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535027183910:android:e108652eed528e327291e7",
+        "android_client_info": {
+          "package_name": "com.example.minibazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535027183910-eo86lna948bdbq379541f9mipjn9ng6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzLGhReXlNgDG0jz90eVtp883O-tmKqoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535027183910-eo86lna948bdbq379541f9mipjn9ng6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

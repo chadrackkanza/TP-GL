@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">VIGNOBLE</string>
+    <string name="title_activity_welcome">Accueil</string>
+    <string name="next">SUIVANT</string>
+    <string name="skip">SAUTER</string>
+    <string name="start">J\'AI COMPRIS</string>
+
+    <string name="slide_1_title">Produits exclusifs</string>
+    <string name="slide_1_desc">Obtenez des produits uniques et uniquement disponibles dans nos boutiques !</string>
+
+    <string name="slide_2_title">Tarifs avantageux</string>
+    <string name="slide_2_desc">Des produits à des tarifs si abordables !</string>
+
+    <string name="slide_3_title">Paiements sans tracas</string>
+    <string name="slide_3_desc">Avec diverses options de paiement , vous pouvez facilement payer en une minute !</string>
+
+    <string name="slide_4_title">Livraison rapide</string>
+    <string name="slide_4_desc">Livraison de commande ultra rapide dans les délais !</string>
+
+
+    <string name="title_activity_registration">Inscription</string>
+    <string name="dummy_button">Bouton factice</string>
+    <string name="dummy_content">CONTENU\nFACTICE</string>
+    <string name="register">Enregistrer</string>
+    <string name="about_activity_title">À propos de nous</string>
+    <string name="about_activity_description"><b>Boostez l\'image de votre marque et de votre entreprise avec nos services d\'impression en ligne premium !</b></string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="domain">Domaine</string>
+    <string name="website">tpgl.com</string>
+    <string name="licence">Licence</string>
+    <string name="licencedesc">Lorem Ipsum</string>
+    <string name="changelog">Changelog</string>
+    <string name="changes">Lorem Ipsum</string>
+    <string name="login">Connexion</string>
+    <string name="wishlist">Liste de souhaits</string>
+    <string name="forgot">Mot de passe oublié</string>
+    <string name="register_now">S\'inscrire maintenant</string>
+    <string name="already_mem">Déjà membre ?</string>
+    <string name="login_now">Connecte-toi maintenant</string>
+
+    <!--Navigation drawer items-->
+    <string name="home">Accueil</string>
+    <string name="myprofile">Profil</string>
+    <string name="myorders">Mes commandes</string>
+    <string name="cart">Panier</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="feedback">Feedback</string>
+    <string name="aboutapp">À propos de l\'application</string>
+    <string name="rate">Rate Us</string>
+    <string name="helpcentre">Help Center</string>
+    <string name="noconnection">Kindly connect to a WIFI network or enable Mobile Data</string>
+    <string name="help">In case of any query feel free to reach us at : \n    beingdev.com@gmail.com\n\nYou can also Call us at our helpline numbers : \n     +91-9291299322 \n     +91-8732883291</string>
+    <string name="magic_points">Magic Points</string>
+    <string name="orders_placed">Orders Placed</string>
+    <string name="items_incart">Articles dans le panier</string>
+    <string name="my_profile">Mon profil</string>
+    <string name="update_details">Mettre à jour les détails</string>
+    <string name="update">Mise à jour</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="back">Retour</string>
+    <string name="registermail1"></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="orderdetails">Votre commande a été passée avec succès. \n Voici votre identifiant de commande unique !</string>
+    <string name="please_wait">Patientez</string>
+    <string name="your_transaction_is_being_processed">Votre transaction est en cours de traitement</string>
+    <string name="order_history">Historique des commandes</string>
+    <string name="default_notification_channel_id">1</string>
+</resources>
